@@ -3,8 +3,7 @@
 
 Junior Web Developer | HTML, CSS, JavaScript  
 
-Building web projects focused on best practices, clean structure and user experience.
-
+Junior Web Developer passionate about creating clean, responsive and user-focused web experiences.
 ---
 
 ## 🛠️ Technologies
@@ -16,12 +15,12 @@ Building web projects focused on best practices, clean structure and user experi
 
 ## 💼 Projects
 
-🔹 **Pilates Landing Page**  
-Conversion-focused landing page for wellness and fitness services.  
+🔹 Pilates Landing Page  
+Conversion-focused landing page designed for wellness and fitness services, with clear structure and call-to-action.
 👉 https://yelied25.github.io/landing-pilates/
 
-🔹 **To-Do App**  
-JavaScript application with task management and data persistence using localStorage.  
+🔹 To-Do App  
+JavaScript application with task management and localStorage persistence for a better user experience.
 👉 https://yelied25.github.io/todo-app/
 
 ---
