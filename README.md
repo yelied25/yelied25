@@ -1,28 +1,36 @@
 
 # 👩‍💻 Yelied Pachay
 
-Junior Web Developer | HTML, CSS, JavaScript
+Junior Web Developer | HTML, CSS, JavaScript  
 
-Desarrollando proyectos web enfocados en buenas prácticas, estructura limpia y experiencia de usuario.
+Building web projects focused on best practices, clean structure and user experience.
 
-## 🔧 Tecnologías
+---
+
+## 🛠️ Technologies
 - HTML
 - CSS
 - JavaScript
 
-## 💼 Proyectos
+---
 
-🔹 **Landing Pilates**  
-Landing page enfocada en conversión para clases de bienestar.  
+## 💼 Projects
+
+🔹 **Pilates Landing Page**  
+Conversion-focused landing page for wellness and fitness services.  
 👉 https://yelied25.github.io/landing-pilates/
 
 🔹 **To-Do App**  
-Aplicación en JavaScript con persistencia usando localStorage.  
+JavaScript application with task management and data persistence using localStorage.  
 👉 https://yelied25.github.io/todo-app/
 
-## 📫 Contacto
+---
 
-🔗 LinkedIn: https://linkedin.com/in/yelied-pachay
-🌐 Portafolio: https://yelied25.github.io
+## 📫 Contact
 
-Buscando oportunidades de prácticas donde seguir creciendo como desarrolladora.
+🔗 LinkedIn: https://linkedin.com/in/yelied-pachay  
+🌐 Portfolio: https://yelied25.github.io  
+
+---
+
+Currently looking for internship opportunities to continue growing as a web developer.
