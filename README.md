@@ -3,7 +3,7 @@
 
 Junior Web Developer | HTML, CSS, JavaScript
 
-Estoy construyendo proyectos con HTML, CSS y JavaScript mientras me preparo para dar el salto a prácticas profesionales.
+Desarrollando proyectos web enfocados en buenas prácticas, estructura limpia y experiencia de usuario.
 
 ## 🔧 Tecnologías
 - HTML
@@ -25,4 +25,4 @@ Aplicación en JavaScript con persistencia usando localStorage.
 🔗 LinkedIn: https://linkedin.com/in/yelied-pachay
 🌐 Portafolio: https://yelied25.github.io
 
-Apasionada por crear interfaces limpias, funcionales y centradas en el usuario.
+Buscando oportunidades de prácticas donde seguir creciendo como desarrolladora.
