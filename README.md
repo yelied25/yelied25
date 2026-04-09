@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**yelied25/yelied25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👩‍💻 Yelied Pachay
 
-Here are some ideas to get you started:
+Junior Web Developer | HTML, CSS, JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estoy construyendo proyectos con HTML, CSS y JavaScript mientras me preparo para dar el salto a prácticas profesionales.
+
+## 🔧 Tecnologías
+- HTML
+- CSS
+- JavaScript
+
+## 💼 Proyectos
+
+🔹 **Landing Pilates**  
+Landing page enfocada en conversión para clases de bienestar.  
+👉 https://yelied25.github.io/landing-pilates/
+
+🔹 **To-Do App**  
+Aplicación en JavaScript con persistencia usando localStorage.  
+👉 https://yelied25.github.io/todo-app/
+
+## 📫 Contacto
+
+🔗 LinkedIn: https://linkedin.com/in/yelied-pachay
+🌐 Portafolio: https://yelied25.github.io
+
+Apasionada por crear interfaces limpias, funcionales y centradas en el usuario.
